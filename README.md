@@ -1,5 +1,5 @@
 <h1><img src="https://em-content.zobj.net/source/noto-emoji-animations/344/smiling-face-with-sunglasses_1f60e.gif" width="40"/> Hey! Nice to see you.</h1>
-<img src="https://i.gifer.com/7xCE.gif" width="40"/>
+<img src="https://thumbs.gfycat.com/CreativeBetterBoar-size_restricted.gif" width="600"/>
 
 <p>Welcome to my page! </br> I'm Arsen, Fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animated-Flag-Dagestan.gif" width="25"/> <b>Mahachkala, Dagestan</b>, currently living in <img src="https://static.wixstatic.com/media/af20f2_63c924836ad647ab946545e7c9d15f18~mv2.gif" width="24"/> <b>Dubai</b>. </p>
 <h3>Things I working with</h3>
