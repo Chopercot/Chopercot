@@ -4,6 +4,7 @@
 <p>Welcome to my page! </br> I'm Arsen, Fullstack Developer transitioning into DevOps. Passionate about automation, CI/CD, and Linux systems, i'm from <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animated-Flag-Dagestan.gif" width="25"/> <b>Mahachkala, Dagestan</b>, currently living in <img src="https://static.wixstatic.com/media/af20f2_63c924836ad647ab946545e7c9d15f18~mv2.gif" width="24"/> <b>Dubai</b>. </p>
 <h3>Things I working with</h3>
 <p>
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
