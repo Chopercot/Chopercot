@@ -4,6 +4,10 @@
 <p>Welcome to my page! </br> I'm Arsen, Fullstack Developer transitioning into DevOps. Passionate about automation, CI/CD, and Linux systems, i'm from <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animated-Flag-Dagestan.gif" width="25"/> <b>Mahachkala, Dagestan</b>, currently living in <img src="https://static.wixstatic.com/media/af20f2_63c924836ad647ab946545e7c9d15f18~mv2.gif" width="24"/> <b>Dubai</b>. </p>
 <h3>Things I working with</h3>
 <p>
+  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-13aa52?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -15,6 +19,10 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-46a2f1?style=flat-square&logo=WordPress&logoColor=white" />
   <img alt="WooCommerce" src="https://img.shields.io/badge/-WooCommerce-311C87?style=flat-square&logo=WooCommerce&logoColor=white" />
+
+
+
+  
 </p>
 
 
